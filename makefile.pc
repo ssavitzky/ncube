@@ -1,0 +1,10 @@
+# makefile for ncube (Unix)
+#
+
+all:	ncube
+
+ncube:  ncube.o ncubex.o
+	$(CC) -o ncube ncube.o ncubex.o -lX11 -lm
+
+
+

@@ -1,0 +1,7 @@
+        DEPLIBS = $(DEPXLIB)
+LOCAL_LIBRARIES = $(XLIB)
+  SYS_LIBRARIES = -lm
+PROGRAMS = ncube
+SRCS = ncube.c ncubex.c
+OBJS = ncube.o ncubex.o
+ComplexProgramTarget(ncube)
