@@ -1,16 +1,16 @@
 /*********************************************************************\
 **
 ** ncube.c -- display a rotating N-Dimensional Cube
-** $Id: ncube.c,v 1.2 1997/10/02 07:40:49 steve Exp $
+**            https://github.com/ssavitzky/ncube
 **
 \*********************************************************************/
 
-char			  /* C O P Y R I G H T   N O T I C E */
+char		  /* O P E N   S O U R C E */
 
  version   [] = "HyperSpace Express Ncube version 1.8 (1991 Sep 20)",
- copyright [] = "Copyright (c) 1991 Stephen Savitzky.  All rights reserved.",
+ copyright [] = "Copyright (c) 1991 Stephen Savitzky.  MIT License.",
  company   [] = "A product of HyperSpace Express",
- address   [] = "343 Leigh Av., San Jose, CA 95128";
+ address   [] = "somewhere in hyperspace";
 
 /*********************************************************************\
 **
